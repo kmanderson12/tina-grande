@@ -8,7 +8,15 @@ hero:
   overlay: true
   large: false
 ---
-Hey there does this work
+Hey there does this work?
+
+It looks like it's good to go now. Huuuuge delay when typing tho.
+
+How is it when typing in the sidebar?
+
+Still not good.
+
+Seems like my mac can't keep up with it.
 
 Nostris blandis iacuit Laertiadaeque est Tritona, [pectora si
 tantum](http://valens.io/haec.php) tantumque missus quoque plumis **Atlante da** generum meminitque exstat!
